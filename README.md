@@ -51,6 +51,8 @@ background-color:red;
 
 ## OUTPUT
 
+![shalini sample web](https://user-images.githubusercontent.com/128398163/228893350-8ffbcc44-f398-406e-b571-3bec4da29163.jpeg)
+
 
 ## RESULT
   List of Departments in an Institution is created successfully.
