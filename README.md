@@ -50,8 +50,9 @@ background-color:red;
 </html>
 
 ## OUTPUT
+![shalini web](https://user-images.githubusercontent.com/128398163/229587683-f0ec67bc-4ffe-4d29-aaa0-fe847bcccc01.png)
 
-![shalini sample web](https://user-images.githubusercontent.com/128398163/228893350-8ffbcc44-f398-406e-b571-3bec4da29163.jpeg)
+
 
 
 ## RESULT
